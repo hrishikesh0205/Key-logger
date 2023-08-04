@@ -1,4 +1,4 @@
-Certainly! A keylogger is a type of program that records the keys you press on your keyboard. It's like having a hidden camera for your computer keyboard. People use keyloggers for various reasons - sometimes for legitimate purposes like keeping track of what's typed for parental control or troubleshooting, but unfortunately, they can also be used maliciously to steal sensitive information.
+A keylogger is a type of program that records the keys you press on your keyboard. It's like having a hidden camera for your computer keyboard. People use keyloggers for various reasons - sometimes for legitimate purposes like keeping track of what's typed for parental control or troubleshooting, but unfortunately, they can also be used maliciously to steal sensitive information.
 
 In the basic keylogger you've created, it does two main things:
 
